@@ -1,0 +1,33 @@
+[sound_effects]
+	#Use custom mod sounds (false = use vanilla Minecraft sounds)
+	useCustomSounds = true
+	#Global volume multiplier for mod sounds (0.0 to 2.0)
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	soundVolumeMultiplier = 1.0
+	#Custom sound for successful parry (resource location)
+	parrySuccessSound = "shieldnparry:parry_success"
+	#Custom sound for failed parry
+	parryFailureSound = "shieldnparry:parry_fail"
+	#Custom sound for shield bash
+	shieldBashSound = "shieldnparry:shield_bash"
+	#Custom sound when parry cooldown finishes
+	parryChargedSound = "shieldnparry:parry_charged"
+
+[flash_effect]
+	#Duration of the flash effect in ticks (0 = off, max 40)
+	# Default: 12
+	# Range: 0 ~ 40
+	flashDuration = 12
+	#Intensity of the flash contrast (0.0 to 2.0)
+	# Default: 1.0
+	# Range: 0.0 ~ 2.0
+	flashIntensity = 1.0
+	#If true, flash lasts as long as the freeze effect
+	flashMatchesFreeze = false
+
+[visual_effects]
+	#Disable the custom parry arm pose in first-person view
+	disableFirstPersonParryPose = false
+	#Disable the custom parry arm pose in third-person view (and other players)
+	disableThirdPersonParryPose = false

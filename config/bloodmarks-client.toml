@@ -1,0 +1,23 @@
+[visuals]
+	#Display blood particles and decals on this client.
+	bloodEffectsEnabled = true
+	#Quiet drips when blood drops land on blocks or in water; a few per tick at most.
+	bloodDripSounds = true
+	#Show soil, mud, sand, dust, snow, soot, frost and wetness on creatures and players, and water dripping off them.
+	showGrime = true
+	#Blocks out in the rain darken as they get wet, and dry slowly once it stops.
+	rainWetsBlocks = true
+	#Show blood and dirt on items in the inventory, the hotbar and other screens.
+	bloodOnItemIcons = true
+	#Blood dissolved in water tints it red for a while.
+	bloodTintsWater = true
+	#Landing drops throw up small flecks of blood.
+	landingFlecks = true
+	#About how many seconds water stays red from blood dissolved in it (bloodTintsWater).
+	# Default: 20
+	# Range: 2 ~ 120
+	waterTintSeconds = 20
+	#Seconds blocks wet from rain take to dry once it stops (rainWetsBlocks).
+	# Default: 60
+	# Range: 5 ~ 600
+	wetBlocksDrySeconds = 60

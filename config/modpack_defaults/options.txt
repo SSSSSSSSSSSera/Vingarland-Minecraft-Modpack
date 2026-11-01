@@ -1,0 +1,4 @@
+simulationDistance:8
+onboardAccessibility:true
+fovEffectScale:0.05621128964711594
+soundCategory_player:0.2065727699530517

@@ -1,0 +1,4 @@
+onlyGibContextCapturedEntities = true
+maxBranchSizeRatio = 0.3
+maxBranchesRatio = 1.0
+modelBranchRatioOverrides = []

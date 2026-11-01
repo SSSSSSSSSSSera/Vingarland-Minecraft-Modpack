@@ -1,0 +1,14 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:wheat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cake"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:dough"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:pie_crust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:cookie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:sweet_berry_cookie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:honey_cookie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"kubejs:kjs/match","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:flint_and_steel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"brewinandchewin:keg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"chemica:yeast"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

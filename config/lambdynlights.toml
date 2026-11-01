@@ -1,0 +1,265 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enable entities light source.
+	entities = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				panda = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				allay = true
+				skeleton = true
+				bat = true
+				frog = true
+				hoglin = true
+				armadillo = true
+				camel = true
+				rabbit = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				turtle = true
+				salmon = true
+				wither_skeleton = true
+				wandering_trader = true
+				piglin_brute = true
+				nautilus = true
+				goat = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				sulfur_cube = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				snowball = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				donkey = true
+				fox = true
+				tropical_fish = true
+				slime = true
+				iron_golem = true
+				zombified_piglin = true
+				cushion = true
+				blaze = true
+				piglin = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				villager = true
+				wolf = true
+				zombie_villager = true
+				elder_guardian = true
+				boat = true
+				strider = true
+				polar_bear = true
+				falling_block = true
+				cave_spider = true
+				witch = true
+				cod = true
+				spider = true
+
+			[light_sources.settings.entities.immersive_paintings]
+				painting = true
+
+			[light_sources.settings.entities.fish_n_ships]
+				sailboat = true
+				ship = true
+
+			[light_sources.settings.entities.alexscaves]
+				submarine = true
+
+			[light_sources.settings.entities.powergrid]
+				hanging_wire = true
+
+			[light_sources.settings.entities.alexsmobs]
+				murmur_head = true
+				kangaroo = true
+				blue_jay = true
+				bone_serpent_part = true
+				cachalot_echo = true
+				catfish = true
+				laviathan = true
+				tasmanian_devil = true
+				centipede_tail = true
+				rhinoceros = true
+				skunk = true
+				dropbear = true
+				leafcutter_ant = true
+				shoebill = true
+				blobfish = true
+				lobster = true
+				snow_leopard = true
+				grizzly_bear = true
+				moose = true
+				tiger = true
+				centipede_head = true
+				flutter = true
+				maned_wolf = true
+				crow = true
+				banana_slug = true
+				elephant = true
+				crocodile = true
+				stradpole = true
+				crimson_mosquito = true
+				anaconda = true
+				seal = true
+				sunbird = true
+				straddler = true
+				emu = true
+				gazelle = true
+				soul_vulture = true
+				underminer = true
+				anaconda_part = true
+				terrapin = true
+				gorilla = true
+				platypus = true
+				flying_fish = true
+				capuchin_monkey = true
+				cockroach = true
+				murmur = true
+				komodo_dragon = true
+				bone_serpent = true
+				centipede_body = true
+				seagull = true
+				raccoon = true
+				fly = true
+				giant_squid = true
+				toucan = true
+				alligator_snapping_turtle = true
+				cachalot_whale = true
+				hummingbird = true
+				bison = true
+				frilled_shark = true
+				sugar_glider = true
+
+			[light_sources.settings.entities.wetland_whimsy]
+				crawfish = true
+				infected_spider = true
+
+			[light_sources.settings.entities.luminous_beasts]
+				crimson_mushlin_king = true
+				basalt_executioner = true
+				witch_doctor = true
+				tree_ent = true
+				the_scarecrow = true
+
+			[light_sources.settings.entities.netherexp]
+				apparition = true
+				ecto_slab = true
+				shotgun_pellet = true
+				vessel = true
+
+			[light_sources.settings.entities.sable_player_ragdoll]
+				ragdoll_seat = true
+
+			[light_sources.settings.entities.snowyspirit]
+				sled = true
+				gingerbread_golem = true
+				container_entity = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.hearthandharvest]
+				manure_projectile = true
+				crow = true
+				thrown_pitchfork = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				boat = true
+				oddion = true
+				man_o_war = true
+
+			[light_sources.settings.entities.aquaculture]
+				tuna = true
+				jellyfish = true
+				bluegill = true
+				muskellunge = true
+				catfish = true
+				tambaqui = true
+				pacific_halibut = true
+				rainbow_trout = true
+				boulti = true
+				gar = true
+				perch = true
+				capitaine = true
+				arrau_turtle = true
+				atlantic_halibut = true
+				piranha = true
+				blackfish = true
+				red_grouper = true
+				arapaima = true
+				box_turtle = true
+				bayad = true
+				atlantic_herring = true
+				pollock = true
+				carp = true
+				atlantic_cod = true
+				brown_trout = true
+				synodontis = true
+				pink_salmon = true
+				smallmouth_bass = true
+				bobber = true
+				minnow = true
+
+			[light_sources.settings.entities.tacz]
+				bullet = true
+
+			[light_sources.settings.entities.mysticsbiomes]
+				strawberry_cow = true
+				red_panda = true
+
+			[light_sources.settings.entities.unusual_furniture]
+				sit_stools = true
+
+			[light_sources.settings.entities.luminous_monsters]
+				cherry_skeleton = true
+				miner_zombie = true
+				dark_oak_skeleton = true
+				glacial_zombie = true
+				glacial_skeleton = true
+				sunken = true
+				savanna_zombie = true
+				dark_oak_zombie = true
+				savanna_skeleton = true
+				miner_skeleton = true
+
+			[light_sources.settings.entities.twilightforest]
+				chain_block = true
+
+			[light_sources.settings.entities.tfmg]
+				green_spark = true
+				blue_spark = true
+				copper_grenade = true
+				zinc_grenade = true
+				thermite_grenade = true
+				spark = true

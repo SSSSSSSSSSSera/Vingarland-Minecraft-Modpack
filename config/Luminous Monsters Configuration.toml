@@ -1,0 +1,33 @@
+["Mob Parameters"]
+	#enables/disables all the monster variants
+	"Variant Spawns" = true
+	"Miner Zombie Spawns" = true
+	"Miner Skeleton Spawns" = true
+	"Swamp Zombie Spawns" = true
+	"Swamp Skeleton Spawns" = true
+	"Savanna Zombie Spawns" = true
+	"Savanna Skeleton Spawns" = true
+	"Dark Oak Zombie Spawns" = true
+	"Dark Oak Skeleton Spawns" = true
+	"Cherry Zombie Spawns" = true
+	"Cherry Skeleton Spawns" = true
+	"Hollow Skeleton Spawns" = true
+	"Sunken Skeleton Spawns" = true
+	"Crimson Walker Spawns" = true
+	"Revenant Skeleton Spawns" = true
+	"Icy Zombie Spawns" = true
+	"Icy Skeleton Spawns" = true
+
+["Attack Effects"]
+	"Frost Effect" = true
+	"Hunger Effect" = true
+	"Slowness Effect" = true
+	"Poison Effect" = true
+	"Lifesteal Effect" = true
+
+["Effect Multipliers"]
+	"Frost Duration" = 60.0
+	"Hunger Duration" = 60.0
+	"Slowness Duration" = 60.0
+	"Poison Duration" = 60.0
+	"Lifesteal Amount" = 5.0

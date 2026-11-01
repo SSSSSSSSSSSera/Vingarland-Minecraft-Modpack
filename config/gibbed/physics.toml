@@ -1,0 +1,6 @@
+gibLifetime = 320
+gibGroundLifetime = 120
+gibCollisionWidthMult = 0.9
+gibsPushGibs = false
+playersPushGibs = true
+entitiesPushGibs = false

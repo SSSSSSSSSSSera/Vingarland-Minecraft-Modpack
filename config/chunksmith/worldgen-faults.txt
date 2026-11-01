@@ -1,0 +1,17 @@
+Chunksmith - Worldgen Fault Report
+Generated: Sat, 24 Oct 2026 19:41:43 +0300
+Chunksmith generation task active: yes
+Total faults this session: 2
+
+These are vanilla worldgen errors Chunksmith caught and kept out of the server log.
+Each is attributed to the structure/datapack being generated - report it to that mod's author.
+====================================================================
+
+mod/datapack: minecraft
+  total faults: 2
+  error types:
+    - block-attached entity: anchor more than 16 blocks from the entity x2
+  structures involved:
+    - minecraft:abandoned_camp_old_growth_birch_forest x2
+  sample broken chunks (up to 10): [12,2]
+

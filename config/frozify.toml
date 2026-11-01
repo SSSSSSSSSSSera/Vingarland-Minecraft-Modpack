@@ -1,0 +1,59 @@
+[block_temperature]
+	#The temperature of blocks with the heat_1 tag. For example, a torch. (default 10.0)
+	heat_1 = 10.0
+	#The temperature of blocks with the heat_2 tag. For example, a furnace. (default 24.0)
+	heat_2 = 24.0
+	#The temperature of blocks with the heat_3 tag. For example, a fire. (default 36.0)
+	heat_3 = 36.0
+	#The temperature of blocks with the heat_4 tag. For example, a lava. (default 180.0)
+	heat_4 = 180.0
+	#The temperature of blocks with the cold_1 tag. For example, a snow. (default 10.0)
+	cold_1 = -8.0
+	#The temperature of blocks with the cold_2 tag. For example, a ice. (default 10.0)
+	cold_2 = -10.0
+	#Water temperature. (default -15.0)
+	water_temperature = -15.0
+	#Player burning temperature. (default 50.0)
+	burning_temperature = 50.0
+	#Player sleep temperature. (default 15.0)
+	sleep_temperature = 15.0
+
+[world]
+	#This is the multiplier for the initial temperature of all biomes. The higher this value, the higher the temperature in all biomes. (default 1)
+	world_temperature = 1.0
+	#This number determines how many degrees the global temperature will increase or decrease in all biomes. It can be negative or positive. The <world_temperature> multiplier don't works on this number. (default 0)
+	additional_temperature = 0.0
+	#From this y coordinate, the player's temperature begins to gradually decrease. (default 148)
+	upper_limit = 148.0
+	#Every x number of blocks, the player's temperature will decrease by 1 degree. (default 10)
+	temperature_high_interval = 10.0
+
+[food]
+	#How many degrees the player's temperature changes. (default 4.0)
+	food_heat_strength = 4.0
+	#How long the effect will last. (default 210.0)
+	food_heat_time = 210.0
+	#How many degrees the player's temperature changes. (default 4.0)
+	food_cold_strength = 4.0
+	#How long the effect will last. (default 210.0)
+	food_cold_time = 210.0
+
+[player]
+	#The maximum player temperature before they start taking damage. (default 39.9)
+	player_max_temp = 39.9
+	#Player's heat damage. (default 0.75)
+	heat_damage = 0.75
+	#The minimum player temperature before they start taking damage. (default -4.9)
+	player_min_temp = -4.9
+	#Player's cold damage. (default 0.75)
+	cold_damage = 0.75
+	#How quickly a player freezes in sub-zero temperatures, as in loose snow. (default 1.0)
+	player_freezing_power = 1.0
+	#This value is used in the fire_resistance potion. (default 25)
+	max_comfort_temperature = 25.0
+	#This value is used in the cold_resistance potion. (default 15)
+	min_comfort_temperature = 15.0
+
+[other]
+	#Will players be able to see item descriptions on the server. (default true)
+	allow_armor_tooltip = true

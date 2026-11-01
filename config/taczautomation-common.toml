@@ -1,0 +1,6 @@
+	[allow.tacz]
+		ammo = true
+
+	[allow.lrtactical]
+		consumable = true
+		throwable = true

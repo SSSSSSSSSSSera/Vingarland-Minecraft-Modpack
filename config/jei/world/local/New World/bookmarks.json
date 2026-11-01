@@ -1,0 +1,15 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"powergrid:wire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powergrid:iron_wire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:obsidian"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:obsidian_shard"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:pulp"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_leaves"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"indrec:rubber_tree_sapling"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:vinegar"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:undistilled_vinegar"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:supreme_horse_feed"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vinegarland_mod:opsecium_powder"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:opsecium_horse_armor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

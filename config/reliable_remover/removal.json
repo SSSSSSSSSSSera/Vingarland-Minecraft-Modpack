@@ -1,0 +1,57 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "farmersdelight:wheat_dough",
+            "unusual_furniture:screw",
+            
+            "indrec:tin_ore",
+            "indrec:deepslate_tin_ore",
+            "indrec:iridium_ore",
+            "indrec:deepslate_iridium_ore",
+
+            "indrec:tin_plate",
+            "indrec:tin_ingot",
+            "indrec:raw_tin",
+            "indrec:tin_dust",
+            "indrec:tin_block",
+            
+            "indrec:iridium_ingot",
+            "indrec:raw_iridium",
+            "indrec:iridium_alloy_ingot",
+
+            "indrec:uu_matter",
+
+            "indrec:coal_dust",
+            "indrec:gold_dust",
+            "indrec:iron_dust",
+            "indrec:copper_dust",
+
+            "ad_astra:steel_ingot",
+            "ad_astra:steel_nugget",
+            "ad_astra:steel_plate",
+            "ad_astra:steel_block",
+            "ad_astra:steel_rod",
+
+            "simpleradio:copper_wire",
+            "tfmg:copper_wire",
+
+            "frozify:cotton",
+            "frozify:cotton_1",
+
+            "hearthandharvest:manure_block",
+            "hearthandharvest:manure_bricks",
+            "hearthandharvest:manure_brick_stairs",
+            "hearthandharvest:manure_brick_slab",
+            "hearthandharvest:manure_brick_wall",
+            "hearthandharvest:polished_manure",
+            "hearthandharvest:polished_manure_stairs",
+            "hearthandharvest:polished_manure_slab",
+            "hearthandharvest:polished_manure_wall",
+            "hearthandharvest:manure_bag",
+            "hearthandharvest:manure",
+            "hearthandharvest:wet_manure_brick",
+            "hearthandharvest:manure_brick"
+        ]
+    }
+]

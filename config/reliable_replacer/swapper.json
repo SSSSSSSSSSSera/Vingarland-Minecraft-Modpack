@@ -1,0 +1,9 @@
+{
+  "swapper": {
+    "indrec:tin_ore": "minecraft:stone",
+    "indrec:deepslate_tin_ore": "minecraft:deepslate",
+    "indrec:iridium_ore": "minecraft:stone",
+    "indrec:deepslate_iridium_ore": "minecraft:deepslate",
+    "frozify:wildcotton": "hearthandharvest:wild_cotton"
+  }
+}

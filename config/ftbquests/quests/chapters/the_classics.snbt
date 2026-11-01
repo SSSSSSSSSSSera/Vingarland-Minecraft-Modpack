@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_classics"
+	group: "2A8EC496FE4CF2B7"
+	id: "630EEAFFBF2CAEFC"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "1803FC8E4E2F6436"
+		tasks: [{
+			id: "7E4BE5EF94FA72EA"
+			type: "checkmark"
+		}]
+		x: -3.5d
+		y: -3.0d
+	}]
+}

@@ -1,0 +1,8 @@
+playerGibChance = 100
+entityGibChance = 100
+perGibSpawnChance = 100
+explosionsAlwaysGib = true
+explosionsSpawnAllGibs = true
+entityGibBlacklist = ["minecraft:slime", "minecraft:magma_cube", "minecraft:ender_dragon"]
+entityGibBlacklistIsWhitelist = false
+maximumQueuedGibbedEntities = 20

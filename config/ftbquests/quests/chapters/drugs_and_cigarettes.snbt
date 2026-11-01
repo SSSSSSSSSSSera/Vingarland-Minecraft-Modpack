@@ -1,0 +1,40 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "drugs_and_cigarettes"
+	group: "2A8EC496FE4CF2B7"
+	id: "260719C33F95442F"
+	images: [{
+		click_action: "none:"
+		height: 9.0d
+		id: "289E9558C694C2A8"
+		image: "kubejs:textures/questline/images/theresnothing.png"
+		rotation: 0.0d
+		width: 16.0d
+		x: 0.0d
+		y: 0.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["69E5DA07820C8E98"]
+			id: "02204DDCC8367481"
+			tasks: [{
+				id: "4A8BB4FF150B9130"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 4.5d
+		}
+		{
+			id: "69E5DA07820C8E98"
+			tasks: [{
+				id: "797CA1BC5FFFB97F"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 4.5d
+		}
+	]
+}

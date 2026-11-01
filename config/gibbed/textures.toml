@@ -1,0 +1,7 @@
+useGoreTextures = false
+entityGoreTextureBlacklist = ["minecraft:skeleton"]
+entityGoreTextureBlacklistIsWhitelist = false
+entityLayeredTextureBlacklist = ["minecraft:mooshroom"]
+layerTextureBlacklistIsWhitelist = false
+stainGibsWithGore = true
+goreStainCoverage = 20

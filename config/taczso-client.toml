@@ -1,0 +1,133 @@
+#How magnified optics show their image.
+[pip]
+	#How a magnified optic shows its image.
+	#OFF: whole-screen zoom (stock TaCZ).
+	#FAKE (deprecated): crops the already drawn frame into the lens. Cheapest, but adds no detail. Under shader packs the scope tube shows.
+	#REAL (deprecated): renders the world a second time through the scope. True magnification, roughly double the world cost.
+	#INLINE: true magnification from a single world render. Works with and without shader packs, and with
+	#  Sodium, Accelerated Rendering and Distant Horizons.
+	#  A very fast flick can briefly show a sliver of zoomed image just outside the eyepiece.
+	#FAKE and REAL are deprecated: they get no new mod support and may be removed. Use INLINE.
+	#A server can disable this, which forces OFF, and can force or limit the options below.
+	#Allowed Values: OFF, FAKE, REAL, INLINE
+	mode = "INLINE"
+	#REAL only (deprecated). Lens image resolution relative to the screen. Below 1.0 the lens looks soft.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	realResolutionScale = 1.0
+	#REAL and INLINE. Below this magnification the lens uses the cheap FAKE crop instead.
+	#1.0 always uses true magnification.
+	# Default: 1.0
+	# Range: 1.0 ~ 50.0
+	realMinMagnification = 1.0
+	#FAKE under a shader pack only (deprecated). Raises the lowest magnification so the scope's tube stays out of the lens.
+	#False keeps the exact magnification but lets the tube show at the low end.
+	fakeHideScopeInterior = true
+	#FAKE only (deprecated). True blends pixels (softer), false keeps them square (blocky at high magnification).
+	fakeSmoothSampling = true
+	#REAL only (deprecated). False reuses the last scope render while the camera is still, which saves FPS but can lag
+	#behind things moving inside the lens.
+	realRefreshEveryFrame = true
+	#INLINE only. While aiming a scope, the gun comes back toward the eye until the eyepiece fills
+	#this share of the screen's height (0.35 = 35%). Each scope and gun moves by its own amount, so
+	#they all end up the same size; one already that large is left where it is, and none comes
+	#nearer the eye than 0.12 blocks. The reticle stays centred and the magnification is unchanged.
+	#0 keeps TaCZ's position.
+	# Default: 0.35
+	# Range: 0.0 ~ 0.9
+	gunPullback = 0.35
+	#INLINE only. Blurs the world around the optic while aiming. False turns it off for every optic.
+	worldBlurEnabled = true
+	#INLINE only. How strongly the world outside a magnified scope blurs while aiming, as the eye
+	#focuses through the lens. The gun and the lens stay sharp. 0 turns it off for scopes.
+	# Default: 0.75
+	# Range: 0.0 ~ 1.0
+	worldBlur = 0.75
+	#INLINE only. How strongly the world blurs while aiming a red dot or holographic sight. The gun
+	#stays sharp. 0 turns it off for sights.
+	# Default: 0.35
+	# Range: 0.0 ~ 1.0
+	worldBlurSights = 0.35
+	#INLINE only. Size of the world blur, in pixels at 1080p.
+	# Default: 5.0
+	# Range: 0.5 ~ 24.0
+	worldBlurRadius = 5.0
+
+#INLINE only. Scopes, red dots and holographic sights seen through coated optical glass.
+#Only the glass is affected; the scope body and the rest of the screen are not, and the centre
+#of the reticle never moves. Every option here applies immediately.
+[glass]
+	#The glass: a tint, light lost toward the edge, the scope's shadow when the eye is off axis,
+	#coating reflections, and edge distortion, blur, colour fringing and dirt.
+	#False also turns off the reticle effects.
+	enabled = true
+	#Colour a scope's lens coating passes, as #RRGGBB. #FFFFFF is perfectly neutral.
+	tintColor = "#D6EDE4"
+	#Colour a red dot or holographic sight's window passes, as #RRGGBB.
+	sightTintColor = "#CFE6F2"
+	#How strongly the tint colours the image. Above 1 goes past the colour itself. 0 disables it.
+	# Default: 1.0
+	# Range: 0.0 ~ 4.0
+	tintStrength = 1.0
+	#Light lost toward the edge of the glass, which meets it at a glancing angle. 0 disables it.
+	# Default: 2.0
+	# Range: 0.0 ~ 4.0
+	edgeDarkening = 2.0
+	#Scopes only. The dark crescent of the scope's tube when the eye leaves the eyebox: while
+	#aiming in, and as the scope sways or kicks off centre. 1 is fully dark. 0 disables it.
+	# Default: 0.85
+	# Range: 0.0 ~ 1.0
+	scopeShadow = 0.85
+	#Highlights, the coating's coloured sheen, a dim mirror image of the scene and flare ghosts
+	#from bright lights. 0 disables them.
+	# Default: 2.0
+	# Range: 0.0 ~ 4.0
+	reflectionStrength = 2.0
+	#Stretching and blur near the rim, the reticle included. The centre is never distorted. 0 disables it.
+	# Default: 2.0
+	# Range: 0.0 ~ 4.0
+	distortionStrength = 2.0
+	#Colour fringing near the rim. 0 disables it.
+	# Default: 0.5
+	# Range: 0.0 ~ 4.0
+	chromaticAberration = 0.5
+	#Out of focus dust, smudges and fingerprints on the glass. 0 disables them.
+	# Default: 0.5
+	# Range: 0.0 ~ 4.0
+	imperfectionStrength = 0.5
+
+#INLINE only, with the glass on. How reticles look behind the glass: illuminated ones glow, every
+#one softens and shifts as the eye leaves the optic's axis, and the glass leaves a faint ghost.
+#Aimed and centred, the reticle's aim point stays exactly where TaCZ puts it. Every option here
+#applies immediately. Under a shader pack, red dots and holographic sights keep TaCZ's own reticle.
+[reticle]
+	#The reticle effects below.
+	enabled = true
+	#Illuminated reticles: a soft halo and an overexposed, whiter core. Stronger in the dark,
+	#washed out against a bright sky. 0 disables it.
+	# Default: 1.0
+	# Range: 0.0 ~ 4.0
+	glow = 1.0
+	#A round, out of focus blur of the reticle, growing as the eye leaves the axis and toward
+	#the rim. 0 keeps it sharp.
+	# Default: 1.0
+	# Range: 0.0 ~ 4.0
+	blur = 1.0
+	#A faint, soft second image of the reticle, from light bouncing between the lens elements.
+	#It drifts with the eye. 0 disables it.
+	# Default: 0.5
+	# Range: 0.0 ~ 4.0
+	ghost = 0.5
+	#How far the reticle drifts across the image when the eye is off axis, as a real sight's
+	#parallax does. Centred, it does not move. 0 disables it.
+	# Default: 1.0
+	# Range: 0.0 ~ 4.0
+	parallax = 1.0
+	#The reticle's outer parts bending toward the rim, as seen through the eyepiece's edge. 0 disables it.
+	# Default: 1.0
+	# Range: 0.0 ~ 4.0
+	distortion = 1.0
+	#Red and blue fringes along the reticle's lines, wider off axis and toward the rim. 0 disables them.
+	# Default: 1.0
+	# Range: 0.0 ~ 4.0
+	chromaticAberration = 1.0

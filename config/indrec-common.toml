@@ -1,0 +1,210 @@
+#The factor for converting EU to FE (By default: 1 EU = 4 FE)
+# Default: 4.0
+# Range: 0.0 ~ 2.147483647E9
+energy_conversion_factor = 4.0
+#Whether the Chainsaw items should play an animation
+chainsaw_item_animation = true
+#The Attack Speed of the Nano Saber when activated
+# Default: 1.2000000476837158
+# Range: 0.0 ~ 2.147483647E9
+nano_saber_attack_speed = 1.2000000476837158
+#Whether the Drill items should play an animation
+drill_item_animation = true
+#The Attack Damage of the Nano Saber when activated
+# Default: 19
+# Range: > 0
+nano_saber_attack_damage = 19
+
+		[items.energy.capacity]
+			#The Energy Capacity of the Nano Saber
+			# Default: 400000
+			# Range: > 0
+			nano_saber = 400000
+			#The Energy Capacity of the Quantum Suit
+			# Default: 10000000
+			# Range: > 0
+			quantum_suit = 10000000
+			#The Energy Capacity of the Basic Drill
+			# Default: 40000
+			# Range: > 0
+			basic_drill = 40000
+			#The Energy Capacity of the Advanced Drill
+			# Default: 400000
+			# Range: > 0
+			advanced_drill = 400000
+			#The Energy Capacity of the Electric Hoe
+			# Default: 10000
+			# Range: > 0
+			electric_hoe = 10000
+			#The Energy Capacity of the Advanced Chainsaw
+			# Default: 400000
+			# Range: > 0
+			advanced_chainsaw = 400000
+			#The Energy Capacity of the Lapotron Crystal
+			# Default: 10000000
+			# Range: > 0
+			lapotron_crystal = 10000000
+			#The Energy Capacity of the Electric Tree Tap
+			# Default: 10000
+			# Range: > 0
+			electric_tree_tap = 10000
+			#The Energy Capacity of the Nano Suit
+			# Default: 1000000
+			# Range: > 0
+			nano_suit = 1000000
+			#The Energy Capacity of the Energy Crystal
+			# Default: 1000000
+			# Range: > 0
+			energy_crystal = 1000000
+			#The Energy Capacity of the Basic Battery
+			# Default: 10000
+			# Range: > 0
+			basic_battery = 10000
+			#The Energy Capacity of the Basic Chainsaw
+			# Default: 40000
+			# Range: > 0
+			basic_chainsaw = 40000
+			#The Energy Capacity of the Jetpack
+			# Default: 40000
+			# Range: > 0
+			jetpack = 40000
+
+		[items.energy.usage]
+			#The Energy Usage of the Advanced Drill
+			# Default: 800
+			# Range: > 0
+			advanced_drill = 800
+			#The Energy Usage of the Jetpack
+			# Default: 32
+			# Range: > 0
+			jetpack = 32
+			#The Energy Usage of the Electric Tree Tap
+			# Default: 80
+			# Range: > 0
+			electric_tree_tap = 80
+			#The Energy Usage of the Basic Drill
+			# Default: 80
+			# Range: > 0
+			basic_drill = 80
+			#The Energy Usage of the Basic Chainsaw
+			# Default: 80
+			# Range: > 0
+			basic_chainsaw = 80
+			#The Energy Usage of the Advanced Chainsaw
+			# Default: 800
+			# Range: > 0
+			advanced_chainsaw = 800
+			#The Energy Usage of the Nano Saber
+			# Default: 80
+			# Range: > 0
+			nano_saber = 80
+			#The Energy Usage of the Electric Hoe
+			# Default: 80
+			# Range: > 0
+			electric_hoe = 80
+			#The Energy Usage of the Quantum Suit
+			# Default: 10000
+			# Range: > 0
+			quantum_suit = 10000
+			#The Energy Usage of the Nano Suit
+			# Default: 1000
+			# Range: > 0
+			nano_suit = 1000
+
+		[blocks.energy.capacity]
+			#The Energy Capacity of the Wind Mill
+			# Default: 16000
+			# Range: > 0
+			wind_mill = 16000
+			#The Energy Capacity of the Advanced Energy Storage Unit
+			# Default: 40000000
+			# Range: > 0
+			advanced_energy_storage_unit = 40000000
+			#The Energy Capacity of the Macerator
+			# Default: 4000
+			# Range: > 0
+			macerator = 4000
+			#The Energy Capacity of the Basic Energy Storage Unit
+			# Default: 4000000
+			# Range: > 0
+			basic_energy_storage_unit = 4000000
+			#The Energy Capacity of the Nuclear Reactor
+			# Default: 1000000
+			# Range: > 0
+			nuclear_reactor = 1000000
+			#The Energy Capacity of the Battery Box
+			# Default: 40000
+			# Range: > 0
+			battery_box = 40000
+			#The Energy Capacity of the Extractor
+			# Default: 4000
+			# Range: > 0
+			extractor = 4000
+			#The Energy Capacity of the Recycler
+			# Default: 4000
+			# Range: > 0
+			recycler = 4000
+			#The Energy Capacity of the Geothermal Generator
+			# Default: 4000
+			# Range: > 0
+			geothermal_generator = 4000
+			#The Energy Capacity of the Compressor
+			# Default: 4000
+			# Range: > 0
+			compressor = 4000
+			#The Energy Capacity of the Basic Generator
+			# Default: 4000
+			# Range: > 0
+			basic_generator = 4000
+			#The Energy Capacity of the Electric Furnace
+			# Default: 4000
+			# Range: > 0
+			electric_furnace = 4000
+			#The Energy Capacity of the Matter Fabricator, that needs to be filled to generate uu matter
+			# Default: 1000000
+			# Range: > 0
+			matter_fabricator = 1000000
+			#The Energy Capacity of the Water Mill
+			# Default: 16000
+			# Range: > 0
+			water_mill = 16000
+			#The Energy Capacity of the Basic Solar Panel
+			# Default: 4000
+			# Range: > 0
+			basic_solar_panel = 4000
+			#The Energy Capacity of the Charge Pad
+			# Default: 1000000
+			# Range: > 0
+			charge_pad = 1000000
+			#The Energy Capacity of the Canning Machine
+			# Default: 4000
+			# Range: > 0
+			canning_machine = 4000
+
+		[blocks.energy.production]
+			#The amount of Energy produced by the Wind Mill
+			# Default: 10
+			# Range: > 0
+			wind_mill = 10
+			#The amount of Energy produced by the Geothermal Generator
+			# Default: 20
+			# Range: > 0
+			geothermal_generator = 20
+			#The amount of Energy produced by the Basic Generator
+			# Default: 10
+			# Range: > 0
+			basic_generator = 10
+			#The amount of Energy produced by the Basic Solar Panel
+			# Default: 1
+			# Range: > 0
+			basic_solar_panel = 1
+			#The amount of Energy produced by the Water Mill
+			# Default: 6
+			# Range: > 0
+			water_mill = 6
+
+		[blocks.fluid.capacity]
+			#The Fluid Capacity of the Geothermal Generator
+			# Default: 1000
+			# Range: > 0
+			geothermal_generator = 1000

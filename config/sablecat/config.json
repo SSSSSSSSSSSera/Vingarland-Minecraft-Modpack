@@ -1,0 +1,61 @@
+{
+  "language": "en",
+  "autoUpdate": false,
+  "fixes": {
+    "async-save": true,
+    "panic-guard": true,
+    "write-flush": true,
+    "corrupted-cleanup": true,
+    "carryon-compat": true,
+    "typewriter-server-fix": true,
+    "command-block-sublevel-fix": true,
+    "aeronautics-server-fix": true,
+    "aeronautics-slime-bearfix": false,
+    "physics-staff-drag-clipfix": true,
+    "plot-holder-guard": true,
+    "copycats-lift-compat": true,
+    "player-position-guard": true,
+    "light-engine-bounds-guard": true,
+    "physics-ticket-guard": true,
+    "sublevel-entity-guard": true,
+    "sublevel-volume-limit": true,
+    "ctt-concurrent-fix": true,
+    "ctt-log-spam-fix": true,
+    "create-trackgraph-null-guard": true,
+    "create-train-detach-nulledge-guard": true,
+    "sublevel-load-log-spam-fix": true,
+    "udp-invalid-packet-guard": true,
+    "entity-lookup-remove-guard": true,
+    "rescue-capture": true,
+    "chain-save-guard": true,
+    "sublevel-backup": true,
+    "block-destroy-coordinate-guard": true,
+    "frogport-extract-limit": true,
+    "ctt-posttick-timeout-guard": true,
+    "effortless-particle-fix": true,
+    "vista-camera-chunk-fix": true,
+    "sable-scalablelux-incompat-bypass": false,
+    "scalablelux-compat": true,
+    "constraint-self-fix": true
+  },
+  "fixParams": {
+    "player-position-guard": {
+      "yMaxMargin": 1000.0
+    },
+    "rescue-capture": {
+      "rescueX": 0.0,
+      "rescueY": 200.0,
+      "rescueZ": 0.0
+    },
+    "sublevel-backup": {
+      "intervalHours": 24.0,
+      "maxBackupsToKeep": 14.0,
+      "libraryPath": ""
+    },
+    "block-destroy-coordinate-guard": {
+      "xLimit": 30000000,
+      "yMin": -512,
+      "yMax": 1024
+    }
+  }
+}

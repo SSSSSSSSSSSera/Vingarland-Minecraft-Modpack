@@ -1,0 +1,6 @@
+playSoundOnGibbed = true
+gibbedVolume = 1.0
+gibbedPitch = 0.9
+playSoundOnGibLand = true
+gibLandVolume = 1.0
+gibLandPitch = 0.9

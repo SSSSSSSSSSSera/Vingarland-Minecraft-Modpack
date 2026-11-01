@@ -1,0 +1,3 @@
+spawnParticlesOnGibbed = true
+spawnParticlesOnGibLand = true
+particleAmountScale = 1.0

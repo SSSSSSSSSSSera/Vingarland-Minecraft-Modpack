@@ -1,0 +1,7 @@
+[villager_beds]
+	#Controls which beds in village structures are replaced with Villager Beds.
+	#VANILLA_ONLY = replace only vanilla beds
+	#ALL_BEDS = replace any BedBlock
+	#NONE = disable structure replacement
+	#Allowed Values: VANILLA_ONLY, ALL_BEDS, NONE
+	bedReplacementMode = "VANILLA_ONLY"

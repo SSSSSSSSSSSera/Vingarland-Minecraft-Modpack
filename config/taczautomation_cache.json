@@ -1,0 +1,3267 @@
+[
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 36,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:sp_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 36,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:50ae\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 36,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:45_70\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 36,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:trs_bull_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 100,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:22wmr\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:rods/blaze"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 24,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:50bmg\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 48,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:rifles_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 48,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:46x30\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 40,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:58x42\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "item": "minecraft:redstone"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 64,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:origin_electric_staff_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 34,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:kar98k_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 60,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:762x54\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 35,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:762x39\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 45,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:762x25\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 45,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:556x45\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 30,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:45acp\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 50,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:9mm\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 45,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:545x39\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 40,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:68x51fury\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 64,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:raygun_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gems/lapis"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 60,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:308\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 18,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:338\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "minecraft:feather"
+      },
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 64,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:origin_wind_staff_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 48,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:57x28\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      },
+      {
+        "tag": "c:nuggets/iron"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 18,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:12g\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 64,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:sig_fury_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 3,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:rpg_rocket\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      },
+      {
+        "item": "minecraft:blaze_powder"
+      },
+      {
+        "item": "minecraft:magma_block"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 64,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:origin_fire_staff_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 48,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:792x57\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      },
+      {
+        "tag": "c:gems/lapis"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 32,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:500mag\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:dusts/redstone"
+      },
+      {
+        "tag": "c:dusts/redstone"
+      },
+      {
+        "tag": "c:dusts/redstone"
+      },
+      {
+        "item": "minecraft:glass"
+      },
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 78,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:waffe_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 48,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:dmr_rifles_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 48,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:357mag\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 32,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:30_06\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 42,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:five_seven_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 78,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:ray_gun_mk2_ammo\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/iron"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      },
+      {
+        "tag": "c:gunpowders"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 6,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"tacz:40mm\"}"
+        }
+      }
+    ]
+  },
+  {
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/copper"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "tag": "c:ingots/gold"
+      },
+      {
+        "item": "minecraft:glass"
+      },
+      {
+        "item": "minecraft:glass"
+      },
+      {
+        "item": "minecraft:blue_ice"
+      },
+      {
+        "item": "minecraft:blue_ice"
+      }
+    ],
+    "results": [
+      {
+        "id": "tacz:ammo",
+        "amount": 64,
+        "components": {
+          "minecraft:custom_data": "{AmmoId:\"elitex:origin_ice_staff_ammo\"}"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "cullEntity": true,
+  "cullBlockEntity": true,
+  "cullChunk": true,
+  "sampling": 0.5,
+  "updateDelay": 1,
+  "asyncSignalHz": 120,
+  "tickCulling": false,
+  "vegetationThinning": true,
+  "vegetationThinningStart": 50,
+  "entitySkip": [
+    "create:stationary_contraption",
+    "minecraft:warden"
+  ],
+  "blockEntitySkip": [
+    "minecraft:beacon"
+  ],
+  "modSkip": [
+    "ars_nouveau"
+  ]
+}

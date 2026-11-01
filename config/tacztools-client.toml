@@ -1,0 +1,19 @@
+[freeLook]
+	#Maximum free-look angle to either the left or right, in degrees.
+	# Default: 60.0
+	# Range: 0.0 ~ 180.0
+	maxYaw = 60.0
+	#Maximum free-look angle upward, in degrees.
+	# Default: 35.0
+	# Range: 0.0 ~ 90.0
+	maxPitchUp = 35.0
+	#Maximum free-look angle downward, in degrees.
+	# Default: 25.0
+	# Range: 0.0 ~ 90.0
+	maxPitchDown = 25.0
+
+[viewmodel]
+	#Maximum FOV reachable with the TACZ Tools viewmodel FOV controls.
+	# Default: 120.0
+	# Range: 20.0 ~ 179.0
+	maxFov = 120.0

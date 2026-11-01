@@ -1,0 +1,231 @@
+# Blood Bits: Flow's shared settings, the same for every world of this game or server.
+# Taken by each world when it starts; changed from the game's settings menu.
+[general]
+	# Scales the blood type's damage-based particle count; zero disables emission.
+	#  Default: 1.0
+	#  Range: 0.0 ~ 10.0
+	damageMultiplier = 1.0
+	# Hard limit of droplets per damage event.
+	#  Default: 24
+	#  Range: 1 ~ 128
+	maxDropletsPerHit = 24
+	# A wet splash from the wound on damaging hits against bleeding targets, heavier on hard and lethal hits.
+	bloodHitSounds = true
+	# How far (in blocks, across flat ground) blood droplets fly from the entity that was hit.
+	# Each droplet flies freely, with nothing stopping it, to a random distance up to this,
+	# farther on harder hits.
+	#  Default: 4.0
+	#  Range: 0.5 ~ 8.0
+	bloodSprayReach = 4.0
+	# Permanent hit-based blood pixels on bodies, armor and held weapons. Water washes them away.
+	modelBloodEnabled = true
+	# Whether players leave blood spatters when damaged.
+	playersCanBleed = true
+	# Entity type IDs that never bleed (no replacement effect yet).
+	# Example: "minecraft:skeleton"
+	nonBleedingEntities = ["minecraft:skeleton", "minecraft:wither_skeleton", "minecraft:stray"]
+	# Per-entity blood color overrides in the form "entity_id=RRGGBB".
+	# Example: "minecraft:spider=00A000"
+	bloodColorOverrides = []
+	# Per-entity bleeding mode: entity_id=ON or entity_id=OFF; no entry uses its profile.
+	# Edited through the Blood Bits: Flow world settings screen by a server operator.
+	entityBloodStates = []
+	# Shared texture/sprite stain rules: namespace:path|BLOCK or ALLOW|u0,v0,u1,v1.
+	# UV coordinates are local to this PNG/sprite in [0,1]. Later overlapping rules win.
+	# The settings screen previews the texture and lets you select a rectangle.
+	textureStainRules = []
+	# Creatures of other mods without a blood profile bleed as their nearest vanilla relative: the vanilla
+	# creature their class extends, their vanilla tags, or the words of their name (golem, skeleton, ghost,
+	# slime, spider, zombie...). Off: every unlisted creature bleeds plain red.
+	guessUnlistedCreatures = true
+	# A blow through a body (a shot, a deep stab) leaves a second, smaller wound where it comes out.
+	exitWounds = true
+	# Weapons, fists, thrown tridents and thrown items take blood from what they strike.
+	weaponBlood = true
+	# Flying drops that hit bodies, held or dropped items and things stain them.
+	# Off: they fly through to the ground.
+	dropsStainWhatTheyHit = true
+	# A bloody block placed from the hand shows its blood for a few seconds as it fades.
+	placedBlocksKeepBlood = true
+	# Bloody or dirty items stack with clean ones of their kind, the blood and dirt shared out.
+	# Off: as in the game itself, only items stained alike stack.
+	stainedItemsStack = true
+	# A player's blow wounds where their crosshair was on the creature (Epic Fight's swings too).
+	# Off: where the line from the eyes meets the body.
+	woundsWhereAimed = true
+	# How big the drops of a blow are, times the usual: bigger drops leave bigger stains.
+	#  Default: 1.0
+	#  Range: 0.25 ~ 3.0
+	dropSize = 1.0
+	# How much blood a blow leaves on the body it strikes, times the usual.
+	#  Default: 1.0
+	#  Range: 0.0 ~ 3.0
+	woundSize = 1.0
+	# How big the wound where a blow comes out is, in percent of the wound where it went in.
+	#  Default: 60
+	#  Range: 0 ~ 100
+	exitWoundSize = 60
+	# How much blood a weapon, a fist or a thrown thing takes from what it strikes, times the usual.
+	#  Default: 1.0
+	#  Range: 0.0 ~ 3.0
+	weaponBloodAmount = 1.0
+	# How often a creature low on health bleeds (lowHealthBleeding), times the usual.
+	#  Default: 1.0
+	#  Range: 0.0 ~ 5.0
+	bleedingRate = 1.0
+	# Each time a creature low on health bleeds, blood flies from its wound as from a blow of this much damage.
+	#  Default: 1.0
+	#  Range: 1.0 ~ 20.0
+	bleedingAmount = 1.0
+	# About how many seconds the blood of a bloody block placed from the hand shows before it has faded.
+	#  Default: 8
+	#  Range: 1 ~ 120
+	placedBlockBloodSeconds = 8
+
+	[general.physics]
+		# Blood runs over edges and down walls; ceiling blood seeks connected walls and continues onto
+		# supported floors. Floor pools spreading: poolsSpread.
+		bloodSlideDownWalls = true
+		# If the support surface is broken/removed, the blood falls
+		# and lands on whatever surface is below instead of just vanishing.
+		bloodFallsWhenBlockBreaks = true
+		# Blood spatters gradually wash away when standing in rain.
+		washAwayInRain = true
+		# Droplets dissolve at first contact with water and emit a short tint cloud.
+		# Settled blood fades when submerged; streams dissolve in water instead of depositing a pool.
+		dissolveInWater = true
+		# Ticks water takes to wash away blood lying under it, pixel by pixel (at most 3 seconds);
+		# submerged surfaces are rechecked every 4 ticks. Rain: bloodFadeDurationTicks.
+		#  Default: 60
+		#  Range: 10 ~ 60
+		waterDissolveTicks = 60
+		# Ceiling and wrapped underside decals share at most four streams per client world.
+		# One stream within 1.5 blocks, followed by a 1.5-second neighborhood pause; at most four active streams.
+		# Streams deposit a tiny pool and impact splash on blocks, or dissolve in water.
+		# Separate falling ceiling droplets are disabled.
+		bloodCeilingStreakEnabled = true
+		# Shortest base emission duration before a ceiling filament detaches.
+		# A duration up to bloodCeilingStreakGrowthMaxTicks is picked and scaled by 0.75.
+		# This controls the filament tail, not how far it can fall.
+		#  Default: 4
+		#  Range: 1 ~ 200
+		bloodCeilingStreakGrowthMinTicks = 4
+		# Longest base emission duration in ticks; actual duration is multiplied by 0.75.
+		#  Default: 8
+		#  Range: 1 ~ 200
+		bloodCeilingStreakGrowthMaxTicks = 8
+		# Blood darkens as it dries, on the ground, bodies and items, and stays until washed away.
+		# Off: it never dries; once its time is up it fades away smoothly instead (bloodFadeOutSeconds).
+		bloodDries = true
+		# Seconds blood on bodies, armour, items and things takes to dry (with drying off: stays before it
+		# fades). Blood on the ground: bloodLifetimeMinSeconds to bloodLifetimeMaxSeconds.
+		#  Default: 60
+		#  Range: 5 ~ 3600
+		modelBloodDryingSeconds = 60
+		# With drying off: seconds blood takes to fade away once its time is up.
+		#  Default: 10
+		#  Range: 1 ~ 120
+		bloodFadeOutSeconds = 10
+		# Fresh blood runs a few pixels down bodies, items and things.
+		bloodRunsDown = true
+		# Blood on level floors spreads into a pool for 7 to 17 seconds.
+		poolsSpread = true
+		# Moving belts (Create) carry the blood lying on them and drop it off their end.
+		beltsCarryBlood = true
+		# Water washes blood off creatures, players, what they wear and hold, dropped items, things and
+		# tridents, mark by mark where it covers them. Rain: washAwayInRain.
+		waterWashesBodies = true
+		# Sneak + Use on a water cauldron with an empty hand washes the player.
+		cauldronWashing = true
+		# A splash potion bursting washes the bodies it reaches.
+		potionWashing = true
+		# Create's washing fans wash blood off bodies and items in their spray.
+		fanWashing = true
+		# About how many seconds blood on a level floor takes to spread into its pool (each pool a little
+		# sooner or later).
+		#  Default: 12
+		#  Range: 1 ~ 60
+		poolSpreadSeconds = 12
+		# How far blood spreads once it lands, on floors and down walls, times the usual.
+		#  Default: 1.0
+		#  Range: 0.25 ~ 3.0
+		poolSize = 1.0
+		# The most streams of blood falling from ceilings at once, in each player's game.
+		#  Default: 4
+		#  Range: 1 ~ 16
+		ceilingStreamsAtOnce = 4
+		# The most pixels fresh blood runs down a body, an item or a thing (bloodRunsDown).
+		#  Default: 4
+		#  Range: 1 ~ 8
+		runLength = 4
+		# How fast rain washes blood off creatures, players and what they wear and hold, times the usual.
+		#  Default: 1.0
+		#  Range: 0.1 ~ 5.0
+		bodyRainWashSpeed = 1.0
+		# Seconds water takes to wash away the blood it covers on bodies, items and things (waterWashesBodies).
+		#  Default: 3
+		#  Range: 1 ~ 30
+		bodyWaterWashSeconds = 3
+
+	[general.performance]
+		# Shortest time in seconds blood on the ground stays wet, tiny stream impacts too: then it dries
+		# (with drying off: fades away).
+		#  Default: 46
+		#  Range: 1 ~ 3600
+		bloodLifetimeMinSeconds = 46
+		# Longest time in seconds blood on the ground stays wet: then it dries (with drying off: fades away).
+		#  Default: 94
+		#  Range: 1 ~ 3600
+		bloodLifetimeMaxSeconds = 94
+		# Internal migration marker for legacy defaults.
+		#  Default: 0
+		#  Range: 0 ~ 2
+		lifetimeDefaultsVersion = 2
+		# Ticks rain takes to wash away blood lying in it, pixel by pixel (at most 2.5 seconds).
+		#  Default: 50
+		#  Range: 10 ~ 50
+		bloodFadeDurationTicks = 50
+		# Hard maximum of flying droplets and decals per client world.
+		# When exceeded, the oldest particles are removed to make room. Lower this if
+		# spawning lots of mobs and damaging them causes FPS drops.
+		#  Default: 200
+		#  Range: 10 ~ 5000
+		maxActiveSpatters = 200
+
+	[general.grime]
+		# Creatures and players pick up soil, mud, sand, dust and snow from what they walk on, soot in fire and
+		# frost in the cold, and get wet in water and rain; water washes off what it covers, rain from above.
+		grimeEnabled = true
+		# Mobs near players get dirty too, not only players.
+		grimeOnMobs = true
+		# How fast grime builds up. 1.0: a few minutes' walk on soil to be dirty to the knees.
+		#  Default: 1.0
+		#  Range: 0.05 ~ 20.0
+		grimeRate = 1.0
+		# Soil, mud, sand, dust and snow from the ground walked on.
+		grimeFromGround = true
+		# Soot from fire and lava.
+		grimeSoot = true
+		# Frost in powder snow.
+		grimeFrost = true
+		# Falling snow settling on bodies.
+		grimeSnow = true
+		# Mobs get dirty only within this many blocks of a player (grimeOnMobs).
+		#  Default: 48
+		#  Range: 8 ~ 128
+		grimeMobRange = 48
+		# How fast water and rain wash dirt off bodies and items, times the usual.
+		#  Default: 1.0
+		#  Range: 0.1 ~ 5.0
+		grimeWashSpeed = 1.0
+		# How fast wet creatures, players and items dry off, times the usual.
+		#  Default: 1.0
+		#  Range: 0.1 ~ 5.0
+		wetDrySpeed = 1.0
+		# Below this share of their health, creatures drip blood from their wounds. 0 turns it off.
+		#  Default: 0.3
+		#  Range: 0.0 ~ 1.0
+		lowHealthBleeding = 0.3
+		# Items a player may pour over themselves with Sneak + Use, each "item" or "item=what it leaves"
+		# (an empty bucket, a bottle). A potion pours only as plain water.
+		pourItems = ["minecraft:water_bucket=minecraft:bucket", "minecraft:potion=minecraft:glass_bottle"]

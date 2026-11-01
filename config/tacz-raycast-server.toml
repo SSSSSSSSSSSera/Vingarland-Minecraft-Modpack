@@ -1,0 +1,20 @@
+#TaCZ Raycast Configuration
+[general]
+	#Enable instant raycast bullets. Set to false to use normal TaCZ projectile bullets.
+	enabled = true
+	#Maximum raycast distance in blocks. 0 = use bullet's natural max range (lifeSecond * speed).
+	# Default: 0
+	# Range: 0 ~ 1024
+	maxRaycastDistance = 0
+	#If true, explosive projectiles (rockets, grenades) keep normal projectile behavior.
+	skipExplosive = true
+	#Enable glowing tracer lines for raycast bullets.
+	enableTracers = true
+	#Chance (0.0 to 1.0) that a tracer will spawn when shooting. 1.0 = every shot, 0.5 = 50% chance.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	tracerChance = 1.0
+	#Damage multiplier for raycast bullets. Default 1.0 preserves the gun pack's configured damage.
+	# Default: 1.0
+	# Range: 0.0 ~ 100.0
+	damageMultiplier = 1.0

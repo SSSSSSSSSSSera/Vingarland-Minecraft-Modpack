@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create"
+	group: "2A8EC496FE4CF2B7"
+	id: "5EC5927DB9685CCB"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [{
+		id: "73E9EBD9A0783DEB"
+		tasks: [{
+			id: "7E7AE915BE4A55E4"
+			type: "checkmark"
+		}]
+		x: -0.5d
+		y: 0.0d
+	}]
+}

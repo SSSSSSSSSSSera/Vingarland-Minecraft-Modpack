@@ -1,0 +1,32 @@
+#LeaningOrNot gameplay settings
+[leaning]
+	#Camera and model angle, in degrees, for normal left/right leaning.
+	# Default: 20.0
+	# Range: 0.0 ~ 60.0
+	normalLeanAngle = 20.0
+	#Maximum camera and model angle, in degrees, for Alt incremental leaning.
+	# Default: 30.0
+	# Range: 0.0 ~ 60.0
+	incrementalLeanAngle = 30.0
+	#Lean transition speed multiplier. Higher values lean and recenter faster.
+	# Default: 0.8
+	# Range: 0.8 ~ 5.0
+	leanSpeed = 0.8
+	#Third-person lean angle at which ordinary leg shifting and rotation stop increasing.
+	# Default: 20.0
+	# Range: 0.0 ~ 60.0
+	thirdPersonLegFollowAngle = 20.0
+	#Third-person lean angle, in degrees, at which the torso starts lowering.
+	# Default: 2.0
+	# Range: 0.0 ~ 60.0
+	thirdPersonBodyDropStartAngle = 2.0
+	#Third-person lean angle, in degrees, at which the torso reaches crouch height.
+	# Default: 35.0
+	# Range: 0.0 ~ 60.0
+	thirdPersonBodyDropEndAngle = 35.0
+	#Allow players to lean while sprinting.
+	allowLeanWhileSprinting = false
+	#Allow players to start or continue leaning while jumping or airborne.
+	allowAirLeaning = false
+	#Lower the left/right wall-angle probe to one-block cover height while crouching.
+	lowerWallProbeWhileCrouching = true

@@ -1,0 +1,13 @@
+name = "Vinegarland"
+author = "Sera"
+version = "Alpha"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1a07af4f3c03af3131bbc2168d621d38d7c05c988cdfd78872722c1fcf74e851"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

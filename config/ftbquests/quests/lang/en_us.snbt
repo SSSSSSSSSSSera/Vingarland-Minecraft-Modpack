@@ -1,0 +1,30 @@
+{
+	chapter.260719C33F95442F.title: "Drugs and Tobacco"
+	chapter.3661812C069852ED.title: "Food"
+	chapter.44A625B494D28B9F.title: "Introduction"
+	chapter.5EC5927DB9685CCB.title: "Create"
+	chapter.630EEAFFBF2CAEFC.title: "The Classics"
+	chapter.73423142648AE4A0.title: "Farming"
+	chapter_group.2A8EC496FE4CF2B7.title: "Test"
+	quest.02204DDCC8367481.quest_desc: [""]
+	quest.02204DDCC8367481.title: "Thank you son."
+	quest.171E587A3E5065E9.quest_desc: [
+		"Hello and welcome to Vinegarland a modpack based on the vinegarhq discord"
+		"made by a oh so popular and loved member by the name of sera"
+	]
+	quest.171E587A3E5065E9.quest_subtitle: "Huh? Wha"
+	quest.171E587A3E5065E9.title: "Welcome"
+	quest.55CD69851BD8A1B9.quest_desc: [
+		"Obtain the new opsecium ingot"
+		"made specifically for this modpack using kubejs"
+	]
+	quest.55CD69851BD8A1B9.quest_subtitle: "OPSEC LEVEL: OPSECIUM"
+	quest.55CD69851BD8A1B9.title: "Opsecium"
+	task.014C8D00793B859C.title: "test"
+	task.2338913C9EE7AB9F.title: "Temp"
+	task.4A8BB4FF150B9130.title: "There's nothing."
+	task.70148AFBC3420C72.title: "Temp"
+	task.797CA1BC5FFFB97F.title: "There's nothing."
+	task.7E4BE5EF94FA72EA.title: "Temp"
+	task.7E7AE915BE4A55E4.title: "Temp"
+}

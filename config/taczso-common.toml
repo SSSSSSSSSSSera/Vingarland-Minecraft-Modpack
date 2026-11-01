@@ -1,0 +1,27 @@
+#Enforced on every player who joins this server or world, so no one gains an edge from their own
+#client settings. Changes apply to players already online.
+[server]
+	#Allow picture-in-picture scopes. False forces every player to the stock full-screen zoom.
+	pipAllowed = true
+	#The lens glass (tint, edge darkening, the scope's shadow, reflections, distortion, dirt).
+	#PLAYER: each player's choice. ON: always on, at the default strengths. OFF: always off.
+	#Allowed Values: PLAYER, ON, OFF
+	glass = "PLAYER"
+	#The reticle effects (glow, blur, ghost, parallax, distortion, fringes). ON needs the glass on.
+	#PLAYER: each player's choice. ON: always on, at the default strengths. OFF: always off.
+	#Allowed Values: PLAYER, ON, OFF
+	reticle = "PLAYER"
+	#The blur of the world around the optic while aiming.
+	#PLAYER: each player's choice. ON: always on, at the default strengths. OFF: always off.
+	#Allowed Values: PLAYER, ON, OFF
+	worldBlur = "PLAYER"
+	#The most a player's gunPullback may be: how large the eyepiece may get on screen.
+	#0 keeps every gun at TaCZ's position.
+	# Default: 0.9
+	# Range: 0.0 ~ 0.9
+	maxGunPullback = 0.9
+	#The most any optic may magnify, with or without picture-in-picture. Stronger optics are held
+	#to this. 0 sets no limit.
+	# Default: 0.0
+	# Range: 0.0 ~ 100.0
+	maxMagnification = 0.0
